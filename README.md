@@ -1,4 +1,4 @@
-OptimaJet FormBuilder
+RoyalDev FormBuilder
 ==================
 
 FormBuilder - is a lightweight, user-friendly, effective and essential form tool used to create and manage forms. It is based on React and can be integrated into any web app.
@@ -45,5 +45,3 @@ npm start
 <b>Official web-site</b> - <a href="https://formbuilder.dev">https://formbuilder.dev</a><br/>
 <b>Documentation</b> - <a href="https://formbuilder.dev/documentation/">https://formbuilder.dev/documentation/</a><br/>
 <b>Demo</b> - <a href="https://formbuilder.dev/demo/">https://formbuilder.dev/demo/</a><br/>
-
-For commercial use, please contact <a href="mailto:sales@optimajet.com?subject=DWKit question from github">sales@optimajet.com</a><br/>
